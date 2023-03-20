@@ -3,8 +3,8 @@
 ## Comandos básicos de git
 Clonando o repositório do projeto
 ```
-git clone https://github.com/elisonp/workstation.git```
-
+git clone https://github.com/elisonp/workstation.git
+```
 
 ## Criando ambiente virtual
 Para criar o ambiente virutal, você vai usar o comando:
