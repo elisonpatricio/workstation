@@ -64,3 +64,28 @@ git push
 ```
 git pull
 ```
+#Extra
+
+## Atualizar o PIP - Instalador de pacotes do python
+```
+python -m pip install --upgrade pip
+```
+
+## Instalação / Configuração da API do Podio
+```
+git clone https://github.com/gbvsilva/podio-py
+
+cd podio-py
+
+python setup.py install
+```
+ - Dependências:
+certifi==2021.10.8
+charset-normalizer==2.0.10
+httplib2==0.20.2
+idna==3.3
+mysql-connector-python==8.0.28
+protobuf==3.19.3
+pyparsing==3.0.6
+requests==2.27.1
+urllib3==1.26.8
